@@ -1,0 +1,17 @@
+---
+title: "Welcome to the ECHILD travel plan"
+toc: false
+---
+
+### The ECHILD team is planing to go on holidays
+
+The ECHILD research team joins together to plan where it's going to be
+their next holiday location.
+
+![Travel image from pngall](https://www.pngall.com/wp-content/uploads/2/Travel-PNG-Photo.png)
+
+::: {.callout-note}
+#### Traveler opportunity!
+
+The team is looking for new travelers! Join us on the mission to find the perfect holiday destination.
+:::
