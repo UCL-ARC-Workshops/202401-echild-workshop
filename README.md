@@ -10,3 +10,7 @@ The content of this repository gets build every time something is pushed to `mai
 
 The content of the website has been saved under the [`web_source` directory](./web_source). This directory was chosen to keep it aligned with the ECHILD website repository.
 
+## Acknowledgements
+
+Inspiration from [AffComLab
+repository](https://github.com/jmgirard/affcomlab/tree/main) has been taken to list the travellers and cities automatically.

@@ -1,0 +1,18 @@
+---
+pagetitle: "Cities"
+toc: false
+listing:
+  - id: cities
+    contents: "cities/**/*.md"
+    type: table
+    fields: [title]
+    sort-ui: [title]
+    filter-ui: [title]
+    field-display-names:
+      title: "City"
+---
+
+## Cities we want to visit
+
+:::{#cities}
+:::

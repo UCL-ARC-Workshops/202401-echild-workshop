@@ -23,6 +23,11 @@ website:
     logo: echild.png
     logo-alt: "ECHILD logo."
     collapse-below: lg
+    right:
+      - href: cities.qmd
+        text: Cities
+      - href: travellers.qmd
+        text: Travellers
 
 format:
   html:
