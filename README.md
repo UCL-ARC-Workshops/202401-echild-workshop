@@ -14,3 +14,6 @@ The content of the website has been saved under the [`web_source` directory](./w
 
 Inspiration from [AffComLab
 repository](https://github.com/jmgirard/affcomlab/tree/main) has been taken to list the travellers and cities automatically.
+
+The `.devcontainer` has been adapted from [Zero-setup R workshops with GitHub Codespaces](https://github.com/revodavid/devcontainers-rstudio) repository presented at [rstudio::conf 2022](https://rstudioconf2022.sched.com/event/11iag/zero-setup-r-workshops-with-github-codespaces).
+
