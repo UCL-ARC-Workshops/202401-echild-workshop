@@ -4,12 +4,12 @@ Country: USA (N. America)
 
 ##### Also known as:
 
-FIXME
+The Mile High City
 
 ### What we would like to see there
 
-FIXME
+The Front Range Urban Corridor
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.com/FIXME)
+[Denver]([https://wikipedia.com/FIXME](https://en.wikipedia.org/wiki/Denver)https://en.wikipedia.org/wiki/Denver)
