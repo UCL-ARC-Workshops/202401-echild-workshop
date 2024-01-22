@@ -1,0 +1,31 @@
+---
+title: "Iron Maiden Cat"
+subtitle: "Furry, ginger, fan of 80s heavy metal."
+image: https://github.com/samcunliffe.png
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Likes naps in the sunshine. 🤘🏼
+
+## Travelled cities
+
+- London
+- Seattle
+- Hamburg
