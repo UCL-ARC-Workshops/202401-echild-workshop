@@ -29,3 +29,10 @@ Likes naps in the sunshine. 🤘🏼
 - London
 - Seattle
 - Hamburg
+
+## Here is some code
+
+```{python}
+import math
+print(math.sqrt(2))
+```
