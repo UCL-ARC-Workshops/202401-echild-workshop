@@ -4,7 +4,7 @@ Country: India (Asia)
 
 ##### Also known as:
 
- also known as Calcutta.
+Formerly Calcutta, also known as Kōlkātā
 
 ### What we would like to see there
 
