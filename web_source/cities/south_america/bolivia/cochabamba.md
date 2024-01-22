@@ -4,12 +4,13 @@ Country: Bolivia (S. America)
 
 ##### Also known as:
 
-FIXME
+The "City of Eternal Spring" or "The Garden City" 
+Aymara: Quchapampa; Quechua: Quchapampa
 
 ### What we would like to see there
 
-FIXME
+The Cochabamba valley - mountains
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.com/FIXME)
+- Link to [Cochabamba](https://en.wikipedia.org/wiki/Cochabamba)
