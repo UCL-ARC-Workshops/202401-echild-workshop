@@ -1,8 +1,7 @@
 ---
 title: "Henry Cavill"
 subtitle: "Kills monsters"
-image: 
-https://t0.gstatic.com/images?q=tbn:ANd9GcTzEMn9FI59qysZbAAnImz7GVhhx2Z2rd7xdyB5FXSnDh3YtbIa
+image: https://t0.gstatic.com/images?q=tbn:ANd9GcTzEMn9FI59qysZbAAnImz7GVhhx2Z2rd7xdyB5FXSnDh3YtbIa
 toc: false
 about:
   id: person-profile
