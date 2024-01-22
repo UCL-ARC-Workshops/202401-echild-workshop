@@ -1,6 +1,6 @@
 ---
-title: "Pikachu - Name"
-subtitle: "The electric mouse - characteristic"
+title: "Pikachu"
+subtitle: "The electric mouse"
 image: https://upload.wikimedia.org/wikipedia/en/a/a6/Pok%C3%A9mon_Pikachu_art.png
 toc: false
 about:
