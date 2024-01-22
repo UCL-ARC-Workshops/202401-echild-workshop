@@ -40,15 +40,3 @@ pie(
   border = FALSE
 )
 ```
-
-
-```{python}
-import matplotlib.pyplot as plt
-
-labels = ['Sky', 'Moonlight side of pyramid', 'Shady side of pyramid']
-sizes = [78, 17, 5]
-
-fig, ax = plt.subplots()
-ax.pie(sizes, labels=labels, startangle=315, colors=['navy', 'gold', 'goldenrod'])
-plt.show()
-```
