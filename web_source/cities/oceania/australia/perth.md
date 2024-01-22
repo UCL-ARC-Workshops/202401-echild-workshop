@@ -4,12 +4,12 @@ Country: Australia (Oceania)
 
 ##### Also known as:
 
-FIXME
+Twinned with Chengdu City in China
 
 ### What we would like to see there
 
-FIXME
+Beaches, eateries and street art
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.com/FIXME)
+- Link to [Wikipedia](https://en.wikipedia.org/wiki/City_of_Perth)
