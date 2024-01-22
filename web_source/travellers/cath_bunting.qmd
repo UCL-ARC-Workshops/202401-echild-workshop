@@ -1,0 +1,31 @@
+---
+title: "Catherine Bunting"
+subtitle: "Family traveller"
+image: http://github.com/csbunting.png
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Catherine used to travel a lot before she had children!
+
+## Travelled cities
+
+- Mexico City
+- Hanoi, Vietnam
+- Paris
