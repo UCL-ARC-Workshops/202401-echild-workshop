@@ -1,0 +1,30 @@
+---
+title: "Jo Cruz"
+subtitle: "Foodie"
+image: https://www.vaqueiro.pt/-/media/Project/Upfield/Whitelabels/Vaqueiro-PT/Assets/Recipes/sync-images/289bc81e-7743-49f3-a13a-56481c563d3d.jpg?rev=4abf7351ab894c41aaa246ee7b4869d1&w=1200
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Love for food and travel
+
+## Travelled cities
+
+- Budapest
+- Curitiba
