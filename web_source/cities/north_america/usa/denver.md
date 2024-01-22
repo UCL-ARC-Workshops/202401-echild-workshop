@@ -4,12 +4,12 @@ Country: USA (N. America)
 
 ##### Also known as:
 
-FIXME
+The Mile High City (is exactly one mile (5280 feet or 1609.344 meters) above sea level)
 
 ### What we would like to see there
 
-FIXME
+The Front Range Urban Corridor
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.com/FIXME)
+[Denver]([https://wikipedia.com/FIXME](https://en.wikipedia.org/wiki/Denver)https://en.wikipedia.org/wiki/Denver)
