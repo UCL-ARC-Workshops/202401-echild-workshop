@@ -4,13 +4,13 @@ Country: South Africa (Africa)
 
 ##### Also known as:
 
-FIXME
+Kaapstad (Afrikaans)
 
 ### What we would like to see there
 
-FIXME
+The beautiful Devil's Peak
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.com/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Cape_Town)
 
