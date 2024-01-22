@@ -4,12 +4,12 @@ Country: Finland (Europe)
 
 ##### Also known as:
 
-FIXME
+Åbo (Swedish)
 
 ### What we would like to see there
 
-FIXME
+I'd like to see a proper winter in January (-35ºC - that's the lowest record)
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.com/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Turku)
