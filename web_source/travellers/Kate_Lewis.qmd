@@ -1,0 +1,31 @@
+---
+title: "Kate Lewis"
+subtitle: "Visting places"
+image: https://github.com/lewiskate123.png
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Kate loves to visit new places.
+
+## Travelled cities
+
+- Paris
+- Rome
+- Dublin
