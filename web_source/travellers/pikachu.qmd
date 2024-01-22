@@ -24,6 +24,13 @@ about:
 
 Fits in a hand-held luggage. Speaks pokemon. Charge your phone at no extra charge. 
 
+```{python}
+import random
+shock = random.randint(1,100000)
+print(f"Pikachu, use " + str(shock) + " volts!")
+```
+
+
 ## Travelled cities
 
 - London
