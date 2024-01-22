@@ -30,3 +30,25 @@ I do stuff with data and computers. I prefer travelling.
 - Sheffield, UK
 - El Chalten, Argentina
 - Puerto Natales, Chile
+
+
+```{r}
+pie(
+  c(Sky = 78, "Sunny side of pyramid" = 17, "Shady side of pyramid" = 5),
+  init.angle = 315,
+  col = c("deepskyblue", "yellow", "yellow3"),
+  border = FALSE
+)
+```
+
+
+```{python}
+import matplotlib.pyplot as plt
+
+labels = ['Sky', 'Moonlight side of pyramid', 'Shady side of pyramid']
+sizes = [78, 17, 5]
+
+fig, ax = plt.subplots()
+ax.pie(sizes, labels=labels, startangle=315, colors=['navy', 'gold', 'goldenrod'])
+plt.show()
+```
