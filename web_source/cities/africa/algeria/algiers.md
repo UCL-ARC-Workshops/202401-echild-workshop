@@ -9,7 +9,7 @@ Country: Algeria (Africa)
 
 ### What we would like to see there
 
-3 inches of rain in January 
+Notre Dame d'Afrique - an outstanding monument
 
 ### Extra information
 
