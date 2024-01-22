@@ -2,14 +2,14 @@
 
 Country: Portugal (Europe)
 
-##### Also known as:
+##### Pronounced as:
 
-FIXME
+UK: /ˈkɔɪmbrə/
 
 ### What we would like to see there
 
-FIXME
+Coimbra in Portugal is home to a long, rich history, culture and centuries-old architecture
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.com/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Coimbra)
