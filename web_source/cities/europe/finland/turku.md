@@ -8,7 +8,7 @@ Country: Finland (Europe)
 
 ### What we would like to see there
 
-I'd like to see a proper winter in January (-35ºC)
+I'd like to see a proper winter in January (-35ºC - that's the lowest record)
 
 ### Extra information
 
