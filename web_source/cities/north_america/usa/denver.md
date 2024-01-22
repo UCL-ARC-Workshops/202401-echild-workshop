@@ -4,7 +4,7 @@ Country: USA (N. America)
 
 ##### Also known as:
 
-The Mile High City
+The Mile High City (is exactly one mile (5280 feet or 1609.344 meters) above sea level)
 
 ### What we would like to see there
 
