@@ -1,0 +1,31 @@
+---
+title: "Pikachu - Name"
+subtitle: "The electric mouse - characteristic"
+image: https://upload.wikimedia.org/wikipedia/en/a/a6/Pok%C3%A9mon_Pikachu_art.png
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Fits in a hand-held luggage. Speaks pokemon. Charge your phone at no extra charge. 
+
+## Travelled cities
+
+- London
+- Tokyo
+- Spain
