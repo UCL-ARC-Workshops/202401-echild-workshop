@@ -4,7 +4,7 @@ Country: Colombia (S. America)
 
 ##### Also known as:
 
-La Arenosa
+La Arenosa (meaning _The Sandy_)
 
 ### What we would like to see there
 
