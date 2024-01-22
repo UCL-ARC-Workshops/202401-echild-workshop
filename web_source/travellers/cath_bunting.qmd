@@ -29,3 +29,216 @@ Catherine used to travel a lot before she had children!
 - Mexico City
 - Hanoi, Vietnam
 - Paris
+
+eCHILD git/github training
+http://tiny.cc/arc-echild-git
+Day 1 - Github
+Intro
+Instructor: David Perez-Suarez
+Helpers: Sam Cunliffe (in person) and Jonathan Cooper (online)
+Learning Objectives
+After this workshop, you should be able to
+
+understand the github worflow to contribute to a repository
+modify and create pages on a repository using github and/or codespaces
+design the website structure
+This document
+We will use this document to show notes/diagrams, provide you with the exercises, and keep track of what you need to do.
+
+To edit this document you need to change the view to edit or split mode:
+
+HackMD screenshot showing view mode and pointing a button to switch to edit and view mode on the left top, in between edit button with a pencil icon and view button with an eye icon
+
+If you see this page in view mode like the screen shot above, do either of the following to enable editing.
+
+Edit mode: Ctrl+Alt+E, or click the button with a pencil on the left-top to swich to edit mode
+Both mode: Ctrl+Alt+B, or click the button with a square with a vertical line in the middle
+First exercise!
+Find your name on the list below and cut it from the unknown section and add yourself to the In person or Online section to know where you are.
+
+Indicate whether you’ve got or not some coding experience after your name by typing Code or No Code respectively.
+
+:warning: Let us know if your name is not in the list below or the list didn’t include your github username.
+
+Participants
+name (gh) - Code/No Code
+In person
+David Perez-Suarez (@arc-teaching) - Code - :heavy_check_mark:
+Tony Stone (tony-stone) - Code - :heavy_check_mark:
+Sam Cunliffe (@samcunliffe) - Code :heavy_check_mark:
+Katie Harron (klharron) - Code
+Jo Lam (Jo-Lam) - Code :heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark: :wink:
+Ruth Blackburn (Ruth-MB) - Code
+Online
+Jonathan Cooper (jonc125) - Code
+Catherine Bunting (csbunting) - No Code
+Ania Zylbersztejn (AniaZylb) - Code
+Joachim Tan (jwltan) - code STATA, very little R
+Laura Gimeno (gimenol) - Code
+Milagros Ruiz Nishiki (milirn) - some code
+Rocio Mendez Pineda (rmendezpi) - Code
+Matthew Jay (matthewjay15) - Code
+Selin Akaraci (akaracis)- Code STATA
+Joana Pereira Da Cruz (terraetudo) - Code R
+Kate Lewis (LewisKate123) - Code / mainly Stata
+Farzan Ramzan (z2an) - Code
+GitHub
+Before getting to GitHub, let’s see how a collaboration flow works on MS Word
+
+
+When using git there are a couple of differences.
+
+changes are grouped and can cover multiple files.
+Each set of changes contain a description that’s kept in the history (who made the change, why, what and when).
+You can contribute to any public repository, but only the owners of that repository can accept (merge) these changes.
+The review process happens on a “Pull request”.
+📦 Our repository for today: UCL-ARC-Workshops/202401-echild-workshop
+
+Exercises
+Exercises will be done in pairs.
+
+In person participants, you will work with the person next to you. Our helpers will be walking around. Use your orange 🟧 post-it if you need help.
+Remote participants, you’ll be separated to breakout rooms to do so. Our remote helper will be visiting the different rooms to see how you are doing and help you if needed. You can request for help clicking “Ask for Help” :grey_question: button in the meeting controls.
+Even though you do them in pairs, most of the exercises are supposed to be done by both members. First one person writes and the other observes, and then you swap roles.
+
+Modify a file - more info about the cities
+We’ve got a cities folder in our repository with a set of files separated by continents and countries directories. Go to the file assigned to you (see below) and, in pairs, change at least two of the FIXME in the file:
+
+write in the file the name of that city in one of their local languages or the pronunciation (You’ll find that information on wikipedia);
+Add a reason of what to see in that city;
+Update the link to wikipedia.
+Try to use any of the available styling text syntax available in markdown files.
+
+You can add web links in markdown files following this syntax:
+
+You can visit [website title](https://web.site/pointed/to).
+If you need to link to the same page multiple times in the same file, you can use reference-style links as:
+
+You can visit [our website][main-website] to find information about our activities and events.
+
+If you'd like to work with us, our [main page][main-website] also contains a list of open positions.
+
+
+[main-website]: https://our.web.site/
+Your assigned cities:
+
+Katie Harron - Algiers
+Ruth Blackburn - Axum
+Matthew Jay - Barranquilla
+Rocio Mendez Pineda - Berat
+Joana Pereira Da Cruz - Cape Town
+Jo Lam - Casablanca
+Joachim Tan - Chengdu
+Farzan Ramzan - Cochabamba
+Catherine Bunting - Coimbra
+Laura Gimeno - Cordoba
+Kate Lewis - Denver
+Ania Zylbersztejn - Kolkata
+Selin Akaraci - Mazatlan
+Milagros Ruiz Nishiki - Perth
+Tony Stone - Sendai
+Save the file, create a commit as shown by the instructor and open a pull-request.
+
+Post your link below to get someone to review it
+
+Link to the pull-request / reviewer
+Turku / David
+Barranquilla / Ania
+Kolkata / Kate
+Cordoba / Selin
+Algiers / Tony :camel:
+Casablanca - the city :satisfied: / Matt
+Berat / Catherine
+Mazatlan / Ruth
+Sendai / Joachim
+Axum / Jo-Lam
+Coimbra / Jo
+Chengdu / Milagros
+Cape Town / Katie
+Denver / Zan
+Zan - Cochabamba / Laura
+Perth / Ro
+Review contributions
+Choose one of the pull-request listed above (from a different person that your
+pair), add your name afterwards, and review the pull request as shown by the
+instructor.
+If you are happy with the changes, approve it, otherwise, request changes to
+make it better. Don’t forget to thank them for their contribution.
+
+After approving it, press the merge button that is now available.
+
+Add a file - a new traveller
+Under the travellers directory create a new file as demonstrated with your name or one of a traveller you’d like that join us.
+
+The file needs to have a qmd extension: example.qmd.
+
+Avoid spaces in the name, use CamelCase or snake_case if you want to put many words together. For example sara_alfarsi.qmd.
+
+Use the following code snippet as a template for the file, so it is rendered nicely on our website. See the existing ones for inspiration.
+
+Some templates on Quarto: https://quarto.org/docs/websites/website-about.html
+
+---
+title: "FIXME - Name"
+subtitle: "FIXME - characteristic"
+image: FIXME - photo url
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+FIXME: add a one line description about the person
+
+## Travelled cities
+
+- FIXME - add cities visited.
+- FIXME - city 2
+- FIXME - city 3
+As before, commit the changes and create a pull request. Post your link below to get someone to review it (add your name when you pick one).
+
+Joachim
+Laura
+Ania
+Katie
+Kate
+Adding code to the pages
+Some times, we want to publish a page that demonstrate some analysis. Quarto allows you to write some code in python, R, julia, …
+
+Let’s add to our preferred traveller a code snippet that you like.
+
+We are going to use codespaces, so we can also see whether the result is what we want.
+Codespaces is a service from github that allows you to run a development environment in the cloud.
+We’ve got it set so that you can open vs code, RStudio and Jupyter lab. Follow the indications of the instructor.
+
+Codespaces is like a machine running on the cloud. Though free for public repositories, the resources are not unlimited!
+Check the codespaces you’ve got active and your allowance in your settings
+
+Let’s write some code!
+
+Start the codespaces (takes ~3 mins). Here we give you some code samples to use for R or Python, but feel free to write your own snippet.
+
+A pie-chart from the Carpentries sandpaper docs
+
+```{r}
+pie(
+  c(Sky = 78, "Sunny side of pyramid" = 17, "Shady side of pyramid" = 5),
+  init.angle = 315,
+  col = c("deepskyblue", "yellow", "yellow3"),
+  border = FALSE
+)
+```
