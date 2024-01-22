@@ -3,13 +3,13 @@
 Country: Morocco (Africa)
 
 ##### Also known as:
-
-FIXME
+White House (Berber: ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ, Taddart Tumlilt)
+!['White House'](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Casa_didier55_019.jpg/1024px-Casa_didier55_019.jpg)
 
 ### What we would like to see there
 
-FIXME
+Casablanca is Morocco's chief port, with the Port of Casablanca being one of the largest artificial ports in Africa!
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.com/FIXME)
+- Link to [Wikipedia](https://en.wikipedia.org/wiki/Casablanca)
