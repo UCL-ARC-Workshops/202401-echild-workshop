@@ -4,12 +4,12 @@ Country: India (Asia)
 
 ##### Also known as:
 
-FIXME
+Formerly Calcutta, also known as Kōlkātā
 
 ### What we would like to see there
 
-FIXME
+The city here is famous for being the oldest port in India.
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.com/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Kolkata)
