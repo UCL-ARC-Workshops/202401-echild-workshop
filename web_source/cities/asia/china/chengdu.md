@@ -4,12 +4,12 @@ Country: China (Asia)
 
 ##### Also known as:
 
-FIXME
+Chengtu (Chinese)
 
 ### What we would like to see there
 
-FIXME
+Giant Pandas 
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.com/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Chengdu)
