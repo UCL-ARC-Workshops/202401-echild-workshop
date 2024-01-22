@@ -1,0 +1,31 @@
+---
+title: "Laura Gimeno"
+subtitle: "Explorer"
+image: Appearance undocumented
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Loves travelling the world when she gets a chance.
+
+## Travelled cities
+
+- Hangzhou
+- Florence
+- Boston
